@@ -53,5 +53,5 @@ MIT License
 Ashish Suman
 
 - GitHub: https://github.com/Ashish-suman-sharma
-- LinkedIn: https://linkedin.com/in/ashishsuman0
+- LinkedIn: [https://linkedin.com/in/ashishsuman0](https://www.linkedin.com/in/ashishsuman-se/)
 - Portfolio: https://ashish-suman-sharma-github-io.vercel.app/
