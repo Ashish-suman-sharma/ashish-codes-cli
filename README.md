@@ -44,6 +44,16 @@ To modify this CLI for your own use:
 3. Modify `index.js` with your own information
 4. Test locally: `node index.js`
 
+## Publish From GitHub
+
+This repo supports publishing to npm through GitHub Actions (no local terminal publish needed).
+
+1. Create an npm granular token with publish permission and 2FA bypass for publish.
+2. In GitHub repo settings, add a secret named `NPM_TOKEN`.
+3. Open Actions, run `Publish to npm`, and enter the version (example: `1.0.3`).
+
+You can also publish by creating a GitHub Release with a tag like `v1.0.3`.
+
 ## License
 
 MIT License

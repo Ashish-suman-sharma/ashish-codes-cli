@@ -1,6 +1,6 @@
 {
   "name": "ashish-codes",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Terminal portfolio viewer for Ashish Suman",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "npx", "portfolio", "ashish", "developer card"],
+  "keywords": [
+    "cli",
+    "npx",
+    "portfolio",
+    "ashish",
+    "developer card"
+  ],
   "author": "Ashish Suman",
   "license": "MIT",
   "dependencies": {
